@@ -1,8 +1,9 @@
 # point_spec.rb
 # Written by: Noranda Brown
-# Version: 2014.2.23
+# Version: 2014.2.24
 
 require 'spec_helper'
+require_relative '../point'
 
 describe Point do
 
